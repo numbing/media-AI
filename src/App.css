@@ -1,0 +1,44 @@
+.form {
+  padding: 2rem;
+}
+
+.btn {
+  margin-top: 1rem;
+  float: right;
+}
+
+.form-control {
+  height: 400px;
+}
+
+h2 {
+  text-align: center;
+  margin-top: 1rem;
+}
+.images{
+    display: flex;
+    justify-content: center ;
+    justify-content: space-between;
+}
+
+.love{
+    text-align: center;
+}
+.google{
+    margin-left: 200px;
+}
+.eye{
+
+}
+.content{
+    margin-right: 200px;
+}
+
+h3{
+    font-weight: bold ;
+    font:roboto ;
+    margin-right: 30px;
+}
+footer{
+    background-color: #2ecc71;
+}

@@ -1,0 +1,24 @@
+{
+  "name": "happy-song",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "js-base64": "^2.4.5",
+    "lodash": "^4.17.10",
+    "react": "^16.4.0",
+    "react-awesome-button": "^4.2.0",
+    "react-dom": "^16.4.0",
+    "react-scripts": "1.1.4",
+    "react-share": "^2.1.1",
+    "react-textarea-autosize": "^6.1.0",
+    "recompose": "^0.27.1",
+    "semantic-ui-react": "^0.80.2",
+    "styled-components": "^3.3.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
